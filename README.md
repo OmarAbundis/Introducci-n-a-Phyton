@@ -14,4 +14,4 @@ Al comienzo de los ejercicios se contaba con la versión 3.8 de Python, lo cual 
 
 ### Resultados
 
-Se comprobaron todos los códigos de la [programación básica de python](https://edu.codigoiot.com/mod/lesson/view.php?id=1964&pageid=2565) y los códigos que se comprobaron en VSC se colocaron ya libre de errores en la siguiente [carpeta](https://github.com/OmarAbundis/Introduccion-a-Phyton/tree/main/Basicos).
+Se comprobaron todos los códigos de la [programación básica de python](https://edu.codigoiot.com/mod/lesson/view.php?id=1964&pageid=2565) y los códigos que se comprobaron en VSC se colocaron ya libre de errores en la siguiente carpeta: [basicos](https://github.com/OmarAbundis/Introduccion-a-Phyton/tree/main/Basicos).
