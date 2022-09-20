@@ -1,10 +1,10 @@
-# Introducción-a-Phyton
+# Introducción-a-Python
 
 Como parte de las actividades del taller de IoT, se ha solicitado:
-1. Verificar la version de python
-2. Instalación de anaconda
-3. Configuración de VSC
-4. La comprobación de la correcta configuración de VSC corriendo una serie de programas en phyton
+1. Verificar la version de python.
+2. Instalación de anaconda.
+3. Configuración de VSC.
+4. La comprobación de la correcta configuración de VSC corriendo una serie de programas en python.
 
 Para cumplir con los puntos indicados del 1 al 3, se consultó la información colocada en la página de [Código IoT](https://edu.codigoiot.com/mod/lesson/view.php?id=1954&pageid=2490).
 
